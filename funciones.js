@@ -10,3 +10,6 @@ function restar(a,b){
 
 
 console.log(resta(1,3));
+function multiplicacion(a,b){
+    return a*b
+} 
