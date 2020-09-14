@@ -7,3 +7,6 @@ function dividir(a,b){
 function restar(a,b){
     return a-b
 }
+
+
+console.log(resta(1,3));
